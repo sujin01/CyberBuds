@@ -7,10 +7,12 @@
 <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white">
 
 첫페이지: login.ejs
-...
+
+
   cd /usr/src/
   mkdir app/
   git clone https://github.com/sujin01/CyberBuds.git
   cd CyberBuds
   docker-compose up --build -d
-...
+
+
