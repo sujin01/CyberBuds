@@ -8,11 +8,11 @@
 
 첫페이지: login.ejs
 
-
+'''
   cd /usr/src/
   mkdir app/
   git clone https://github.com/sujin01/CyberBuds.git
   cd CyberBuds
   docker-compose up --build -d
-
+'''
 
